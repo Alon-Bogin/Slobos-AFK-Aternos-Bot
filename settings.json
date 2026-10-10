@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " CousinsSMPad.aternos.me",
+    "ip": " CousinsSMPad.aternos.me:21967",
     "port": 21967,
     "version": "",
     "try-creative": false
